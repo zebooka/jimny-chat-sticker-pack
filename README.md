@@ -1,6 +1,6 @@
 # Jimny Chat Sticker Pack
 
-Набор стикеров от Jimny Chat'а.
+Набор стикеров от Jimny Chat'а — https://t.me/addstickers/JimnyChatRU
 
 ![](logo.png)
 
