@@ -66,6 +66,6 @@ renderSticker "67-softer.png"         72 +85+55 "Люблю \n по-мягче"
 renderSticker "68-harder.png"         72 +65+25 "Люблю  \n по-жестче"
 renderSticker "69-thin-ice.png"       64 +25+25 "Вы ходите\n по офигенно\n тонкому льду"
 renderSticker "70-wheely.png"         72 +25+45 "Колёсики \n от шкафа"
-renderSticker "71-chain.png"         72 +25+45 "У самурая   \n нет цепи"
+renderSticker "71-chain.png"          72 +25+45 "У самурая   \n нет цепи"
 cp -v    ./src/98-mud-lover.png       ./build/98-mud-lover.png
 cp -v    ./src/99-12-5-1.png          ./build/99-12-5-1.png
