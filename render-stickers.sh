@@ -69,5 +69,6 @@ renderSticker "69-thin-ice.png"         64 +25+25 "Вы ходите\n по оф
 renderSticker "70-wheely.png"           72 +25+45 "Колёсики \n от шкафа"
 renderSticker "71-chain.png"            72 +25+45 "У самурая   \n нет цепи"
 renderSticker "72-full-a-boss-race.png" 72 +45+75 "Full   \n a boss race"
+renderSticker "73-bite.png"             72 +45+75 "Укушу       \nза бочок!"
 cp -v    ./src/98-mud-lover.png         ./build/98-mud-lover.png
 cp -v    ./src/99-12-5-1.png            ./build/99-12-5-1.png
