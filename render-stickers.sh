@@ -72,5 +72,6 @@ renderSticker "72-full-a-boss-race.png" 72 +45+75 "Full   \n a boss race"
 renderSticker "73-bite.png"             72 +45+75 "Укушу       \nза бочок!"
 renderSticker "74-snow.png"             72 +45+55 "А где снег?"
 renderSticker "75-red-long-bent.png"    52 +165+75 "Красный,      \nдлинный    \nи кривой!"
+renderSticker "76-vzhuh.png"            72 +140+65 "ВЖУХ"
 cp -v    ./src/98-mud-lover.png         ./build/98-mud-lover.png
 cp -v    ./src/99-12-5-1.png            ./build/99-12-5-1.png
