@@ -74,5 +74,7 @@ renderSticker "74-snow.png"             72 +45+55 "А где снег?"
 renderSticker "75-red-long-bent.png"    52 +165+75 "Красный,      \nдлинный    \nи кривой!"
 renderSticker "76-vzhuh.png"            72 +140+65 "ВЖУХ"
 renderSticker "77-exor.png"             52 +60+30 "Пора вызывать\n экзорциста       "
+cp -v    ./src/78-dead-or-alive.png     ./build/78-dead-or-alive.png
+renderSticker "79-single.png"           52 +60+30 "Да я тут   \nна 2wd проеду"
 cp -v    ./src/98-mud-lover.png         ./build/98-mud-lover.png
 cp -v    ./src/99-12-5-1.png            ./build/99-12-5-1.png
